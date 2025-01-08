@@ -1,12 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Ávila;Sebastián;;;
-FN: Sebastián Ávila
+N:Espejo;Mariam;;;
+FN: Mariam Espejo
 ORG: Fresenius Kabi Colombia;
-TITLE: Jefe de Servicio Técnico MedTech
-EMAIL;type=INTERNET;type=WORK;type=pref:sebastian.avila@fresenius-kabi.com
-TEL;type=WORK;type=VOICE:+573164738709
+TITLE: Analista de ventas y marketing MedTech
+EMAIL;type=INTERNET;type=WORK;type=pref:mariam.espejo@fresenius-kabi.com
+TEL;type=WORK;type=VOICE:+573176437781
 item1.ADR;type=WORK;type=pref:;;Avenida Carrera 7 # 155c - 20\nPiso 40\, Bogotá;Colombia
 item1.X-ABADR:sg
 item2.URL;type=pref:www.fresenius-kabi.com/co
